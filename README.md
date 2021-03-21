@@ -1,3 +1,11 @@
+# Task # 1
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+
+When you have finished your 15 minutes, add your next task to the readme.md. Then make a pull request to the repo.
+https://github.com/ocsigen/js_of_ocaml/issues/1027
+
 [![Build Status](https://travis-ci.org/ocsigen/js_of_ocaml.svg?branch=master)](https://travis-ci.org/ocsigen/js_of_ocaml)
 
 # Js_of_ocaml (jsoo)
